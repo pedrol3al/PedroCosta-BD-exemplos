@@ -1,0 +1,5 @@
+Nome: Pedro Gabriel Leal Costa
+Idade : 16
+Trabalho: TI da britania
+Conhecimento: Html, css, java,python do curso do  senai.
+Passa-tempo: Jogar vôlei, academia, jogos.
