@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 Nome: Pedro Gabriel Leal Costa
 Idade : 16
 Trabalho: TI da britania
 Conhecimento: Html, css, java,python do curso do  senai.
-=======
-Nome: Pedro Gabriel Leal Costa
-Idade : 16
-Trabalho: TI da britania
-Conhecimento: Html, css, java,python do curso do  senai.
->>>>>>> a79e89d08bbe4ed2189f66e4e20f7decda77f56d
 Passa-tempo: Jogar vôlei, academia, jogos.
